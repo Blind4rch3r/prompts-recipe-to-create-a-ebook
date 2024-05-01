@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/conta_govbr_v2.jpg">
+    <img width="100" src=".github/assets/banner.png">
 </p>
 
 
