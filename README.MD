@@ -17,23 +17,23 @@
 />
 </p>
 
+
 # Projeto E-BOOK Gerado por I.A.s
 
+ > **NOTE:** Este repositório foi desenvolvido durante o curso no qual participei como aluno da [DIO](https://dio.me)
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual participei como aluno da [DIO](https://dio.me)
+Projeto com o objetivo de gerar um e-book digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+<a href="https://github.com/Blind4rch3r/prompts-recipe-to-create-a-ebook/blob/main/output/ebook - template.pdf" title="View PDF now">Clique aqui para ler</a>
 
-<a href="https://github.com/Blind4rch3r/prompts-recipe-to-create-a-ebook/blob/main/output/ebook - template.pdf" title="View PDF now"> Clique aqui para ler</a>
 
 ## Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [LibreOffice - Impress](https://www.libreoffice.org/discover/impress/)
+
 
 ## Prompts
-
 
 ChatGPT：
 
@@ -48,10 +48,12 @@ ChatGPT：
 - Conteúdo gerado via ChatGPT
 - Imagem retirada da página de login da conta gov.br
 
+
 ## Materiais
 
 - Imagens utilizadas em `assets`
 - e-book gerado com template em `output`
+
 
 ## Instruções de execução
 
@@ -59,17 +61,13 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 
 <p>
-    <p>&nbsp&nbsp&nbspAirton Medina<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/Blind4rch3r">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/airtonmedina">LinkedIn</a>
-&nbsp;|&nbsp;
-&nbsp;|&nbsp;</p>
+    <p>Airton Medina<br>
+    &nbsp&nbsp&nbsp 
+    <a href="https://github.com/Blind4rch3r">GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/airtonmedina">LinkedIn</a>&nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
-<p>
 
 ---
 
-⌨️ Por [Airton Medina](https://github.com/Blind4rch3r)
+Por [Airton Medina](https://github.com/Blind4rch3r)
