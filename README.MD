@@ -17,7 +17,7 @@
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto E-BOOK Gerado por I.A.s
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual participei como aluno da [DIO](https://dio.me)
@@ -25,14 +25,14 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/Blind4rch3r/prompts-recipe-to-create-a-ebook/blob/main/output/ebook - template.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Blind4rch3r/prompts-recipe-to-create-a-ebook/blob/main/output/ebook - template.pdf" title="View PDF now"> Clique aqui para ler</a>
 
-## 💻 Tecnologias utilizadas no projeto
+## Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-## 🧠 Prompts
+## Prompts
 
 
 ChatGPT：
@@ -43,17 +43,17 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em serviços digitais governamentais, listando um passo a passo completo com exemplos em de como criar uma "conta gov.br" "crie mais conteudo" |
 
 
-## ✨ Features
+## Features
 
 - Conteúdo gerado via ChatGPT
 - Imagem retirada da página de login da conta gov.br
 
-## 📚 Materiais
+## Materiais
 
 - Imagens utilizadas em `assets`
 - e-book gerado com template em `output`
 
-## 🛠️ Instruções de execução
+## Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice, indesign para diagramação.
 
