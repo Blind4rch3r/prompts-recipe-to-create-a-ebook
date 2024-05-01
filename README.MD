@@ -61,10 +61,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 
 <p>
-<p>Airton Medina<br>
-&nbsp&nbsp&nbsp 
-<a href="https://github.com/Blind4rch3r">GitHub</a>&nbsp;|&nbsp;
-<a href="www.linkedin.com/in/airtonmedina">LinkedIn</a>&nbsp;|&nbsp;</p>
+Airton Medina<br> 
+&nbsp;|&nbsp;<a href="https://github.com/Blind4rch3r">GitHub</a>&nbsp;|&nbsp;
+<a href="www.linkedin.com/in/airtonmedina">LinkedIn</a>&nbsp;|&nbsp;
 </p>
 <br/><br/>
 
